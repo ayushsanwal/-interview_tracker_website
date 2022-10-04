@@ -1,4 +1,4 @@
-# -Interview Tracker Website
+# Interview Tracker Website
 About The Website<br />
 A website made using nodejs and mongodb which aims to help candidates to crack interviews by providing practice questions and previous experiences of company wise successful candidates.<br />
 
